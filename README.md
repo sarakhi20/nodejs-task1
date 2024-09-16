@@ -41,6 +41,7 @@ I used Postman to test my api endpoints are working fine.
 
 ##  Clone the repository
 
+- GitHub---[link](https://github.com/sarakhi20/nodejs-task1.git)
 ## Setup
 
 Followig are the requirements to run this project:
