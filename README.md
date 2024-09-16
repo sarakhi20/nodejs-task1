@@ -33,11 +33,11 @@ I used Postman to test my api endpoints are working fine.
 
 ## Screenshots
 
-![App Screenshot](./Images/Screenshot1.png)
+![App Screenshot](./public/Images/Screenshot1.png)
 
-![App Screenshot](./Images/Screenshot2.png)
+![App Screenshot](./public/Images/Screenshot2.png)
 
-![App Screenshot](./Images/Screenshot3.png)
+![App Screenshot](./public/Images/Screenshot3.png)
 
 ## Setup
 
