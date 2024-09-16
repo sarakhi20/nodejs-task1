@@ -26,3 +26,24 @@ I used Postman to test my api endpoints are working fine.
 ## Website
 
 [click-task1](https://nodejs-task1-d89w.onrender.com)
+
+## API Documentation
+
+[Click here to view API Documentation](https://www.postman.com/sarakhi20/my-workspace/collection/ioc7t41/nodejs-task1?action=share&creator=38364225)
+
+## Screenshots
+
+![App Screenshot](./Images/Screenshot1.png)
+
+![App Screenshot](./Images/Screenshot2.png)
+
+![App Screenshot](./Images/Screenshot3.png)
+
+## Setup
+
+Followig are the requirements to run this project:
+- Node-Js
+- Node Package Manager (NPM)
+
+## npm run dev
+- http://localhost:3333/
