@@ -39,6 +39,8 @@ I used Postman to test my api endpoints are working fine.
 
 ![App Screenshot](./public/Images/Screenshot3.png)
 
+##  Clone the repository
+
 ## Setup
 
 Followig are the requirements to run this project:
