@@ -10,7 +10,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": ["File","System"],
-  "author": "Vijay",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^3.3.1",
